@@ -1,41 +1,17 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# My First Day of 1DOC - Start of the AZ-104 studying path
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today is my first day of 100 Days of Cloud and I'm starting with the start of the AZ-104 Exam preparation learning path
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+You might want to have some basic IT knowledge before going into the AZ-104 learning, or you could also have done the AZ-900 so you have a solid base to start with
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I'm using the [AZ-104 Exam preparation course of Cloud Academy](https://cloudacademy.com/learning-paths/az-104-exam-preparation-microsoft-azure-administrator-1-1332/), i've already used their AZ-900 course and found it quite enjoyable, while not enough for the exam it gave me enough to dive into the MS learn stuff without having to much of a headache ( I learn much better with videos and labs then just by reading) 
+[![ca0.png](https://i.postimg.cc/RFJLNP67/ca0.png)](https://postimg.cc/zb5gQFkv)
 
 ## ☁️ Cloud Outcome
 
@@ -47,6 +23,4 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+At the moment outside of the Discord i don't think I'll post on socials... might change in the future :)
