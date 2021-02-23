@@ -14,16 +14,20 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Saroua's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm currently a Level 1/2 Service desk agent, have been for the last 3 and a half years.
+Last year I passed the MD-100 exam that was asked by my employer. After taking the exam i decided to continue with my journey and going up in the company and get some promotion and so I decided to go for cloud as I've been intrested in the cloud for the longest time.
+In early 2021 I decided that it was time to start to really go into cloud stuff and be serious about it.
+I decided to go with Azure as my company is a Microsft Partner and thus getting a promotion will be much easier then trying to find a new job.
+So in early February 2021 I started to read a bit about everything cloud related and started to Study for the AZ-900.
+I've now passed the AZ-900 successfully (19/02) and plan on taking the AZ-104 exam. 
 
-[✍️ Tell us why you started this challenge]
+And while doing some research I stubbled onto the 100DaysOfCloud website and thought it would be a great way for me to keep track of my progress but also hold me accountable to study everyday and be serious about it as much as possible !
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of the Challenge I hope I'll have passed the AZ-104, and be in talkings to be promoted to a place that works with Azure, also I don't plan on stopping to learn after the AZ-104 but as of now I'm not totally sure of the path I want to take after the cert.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/ludovic-orban-01b699133/)
 
 ## Stepping out the door
 
