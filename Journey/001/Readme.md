@@ -18,8 +18,10 @@ You might want to have some basic IT knowledge before going into the AZ-104 lear
 Today I didn't learned that much I went through the overview of the Storage type and Storage Account types
 I also found a deck of flashcard for AZ-104 to use to study and remember terms linked to azure (Janki method style)
 These are the 2 decks I've found and that seems to meet what I'm looking for:
-[Deck1](https://quizlet.com/559464289/az-104-flash-cards/)
-[Deck2](https://www.brainscape.com/packs/az-104-16824470)
+
+ -[Deck1](https://quizlet.com/559464289/az-104-flash-cards/)
+ 
+ -[Deck2](https://www.brainscape.com/packs/az-104-16824470)
 
 ## Next Steps
 
