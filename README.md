@@ -33,7 +33,7 @@ At the end of the Challenge I hope I'll have passed the AZ-104, and be in talkin
 
 - [ ] ☁️ 1 > [My First Day of 1DOC - Start of the AZ-104 studying path](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Day 2 - AZ-104 Storage](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [Day 3 - Identity AZ-104](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
