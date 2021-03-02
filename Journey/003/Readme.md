@@ -1,6 +1,6 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# Day 3 - Identity AZ-104
+# Day 3 - AZ-104 Studying - Identity
 ## Identity learning
 
 Today I did the Identity section of the AZ-104.
